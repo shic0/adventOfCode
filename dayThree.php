@@ -15,7 +15,7 @@
     "01010",
 ]; */
                    
-$fh = fopen('input.txt','r');
+$fh = fopen('input3.txt','r');
 $sumArray = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 $gamma = "";
 
